@@ -7,3 +7,6 @@ Working with: Malloc - Neighbor arrays - Graphs - Pointers - Matrix times ( chan
 * Adjacency Matrix time = 583milliseconde
 * Adjacency Matrix time = 917milliseconde
 * Adjacency Matrix time = 1382milliseconde
+
+
+wait for update....
